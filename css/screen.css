@@ -1,10 +1,10 @@
 body {
 	font-family: Arial, Helvetica;
-	background-color: #a3a3a3;
+	background-color: rgb(172, 113, 12);
 	font-size: 20px;
 }
 form {
-	border: 3px solid #f3f3f3;
+	border: 3px solid #edc3e5;
 }
 .formcontainer {
 	padding: 20px;
@@ -18,7 +18,7 @@ input{
 }
 button {
 	 padding: 15px 20px;
-	 background-color: #fb4747;
+	 background-color: #91ec94;
 	 margin: 20px 0;
 	 box-sizing: border-box;
 	 display: block;
